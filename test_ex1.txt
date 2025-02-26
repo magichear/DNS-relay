@@ -1,0 +1,4 @@
+0.0.0.0 www.test1.com
+203.107.45.167 www.test2.com
+
+0.0.0.0 cbu01.alicdn.com
